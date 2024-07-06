@@ -9,7 +9,7 @@ const Home = () => {
     return (
         <div>
             <Header></Header>
-           <BreakingNews></BreakingNews>
+            <BreakingNews></BreakingNews>
             <Navbar></Navbar>
             <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
                 <div className="border">
